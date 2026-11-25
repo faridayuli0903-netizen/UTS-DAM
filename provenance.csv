@@ -1,0 +1,4 @@
+sumber,url,tanggal_akses,lisensi,metode_akuisisi,nama_berkas,ukuran_byte,md5_hash
+Dataset Terbuka Budaya,https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-11-22/museums.csv,2026-11-25T02:45:05,Open Data Publik (CC BY-SA / Public Domain untuk Pendidikan),Unduh Otomatis Berkas CSV,UTS_DAM_BUDAYA_2501010372/data/raw/dataset_museum_budaya.csv,1813386,e196dba4c3072bc54a8c6285680919f2
+API Open-Meteo,https://archive-api.open-meteo.com/v1/archive,2026-11-25T02:50:39,CC BY 4.0 (Open-Meteo),REST API JSON (Tanpa Key),UTS_DAM_BUDAYA_2501010372/data/raw/openmeteo_bali_2025_gabungan.json,291984,482c1a8b8747a846f264a91b46ab3623
+Web Scraping Portal Resmi Pemerintah,https://kebudayaan.kemdikbud.go.id/bpk15/,2026-11-25T02:53:13,Informasi Publik Pemerintah RI (Non-Wikipedia),Web Scraping Statis (BeautifulSoup),UTS_DAM_BUDAYA_2501010372/data/raw/profil_budaya_bali_kemdikbud.html,81,33edc10751a8f8ce905f4fe3c6b75509
