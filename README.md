@@ -1,83 +1,38 @@
-# UTS_DAM_2501010372 — Data Acquisition & Management
+# UTS Data Acquisition & Management (UTS-DAM)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/faridayuli0903-netizen/UTS-DAM/blob/main/UTS_DAM_2501010372.ipynb)
+## Data Diri
+* **Nama:** Yuliana Farida
+* **NIM:** 2501010372
+* **Kelas / Program Studi:** Kelas F — S1 Informatika, INSTIKI
+* **Email:** faridayuli0903@gmail.com
+* **Topik:** Sektor Budaya Provinsi Bali (Warisan Budaya & Museum) per Kabupaten/Kota
 
-## 1. Data Diri
-| Keterangan | Identitas |
-| :--- | :--- |
-| **Nama** | Yuliana Farida |
-| **NIM** | 2501010372 |
-| **Program Studi** | Informatika — Management Data Analyst |
-| **Kelas** | F |
-| **Mata Kuliah** | Data Acquisition & Management |
-| **Dosen** | Dr. I Gede Totok Suryawan, S.Kom., M.T. |
+## Goal / Tujuan
+Mengumpulkan, mengidentifikasi kolom PII/*quasi-identifier*, memvalidasi *Data Ethics Checklist* (9 butir) dan izin `robots.txt` (`True`), membersihkan, serta menggabungkan data sektor Budaya & Museum di Provinsi Bali dari tiga metode akuisisi (Unduh Berkas CSV, REST API JSON, dan Web Scraping HTML) menjadi satu tabel terintegrasi per Kabupaten/Kota (`one_to_one`).
 
----
+## Sumber Data & URL
+| No | Metode Akuisisi | Nama Sumber | URL | File Raw (`Data/Raw/`) | File Process (`Data/Process/`) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Unduh Berkas | Dataset Terbuka Museum & Budaya (TidyTuesday) | https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-11-22/museums.csv | `dataset_museum_budaya.csv` | `dataset_budaya_bersih.csv` |
+| 2 | REST API | Open-Meteo Historical Weather API (Bali 2025) | https://archive-api.open-meteo.com/v1/archive | `openmeteo_bali_2025_gabungan.json` | `cuaca_harian_bersih.csv` |
+| 3 | Web Scraping | Katalog Publikasi Travel & Budaya (Books to Scrape) | https://books.toscrape.com/catalogue/category/books/travel_2/index.html | `katalog_travel_budaya_web.html` | `hasil_scraping_wilayah_bali.html` |
+| 4 | Gabungan | Hasil Integrasi 3 Sumber (9 Kabupaten/Kota Bali) | — | — | `hasil_gabungan_budaya_bali.csv` |
 
-## 2. Sumber / URL
-| No. | Metode Akuisisi | Sumber | URL | Bentuk Data |
-| :---: | :--- | :--- | :--- | :--- |
-| 1 | Unduh dataset | Dataset Publik Museum & Warisan Budaya | URL aktual dicatat pada `docs/provenance.csv` | CSV |
-| 2 | API | Open-Meteo Historical Weather API (9 Kab/Kota Bali) | `https://archive-api.open-meteo.com/v1/archive` | JSON |
-| 3 | Web scraping | Portal Resmi BPK Bali Kemendikbud | URL halaman aktual dicatat pada `docs/provenance.csv` dan `docs/robots_check.json` | HTML / tabel |
-
-> **Catatan:** URL dataset dan halaman scraping yang benar-benar berhasil diakses telah diverifikasi dari hasil notebook dan tercatat di `provenance.csv`.
-
----
-
-## 3. Goal / Tujuan
-Topik yang digunakan adalah **Sektor Budaya Provinsi Bali (Warisan Budaya & Museum) per Kabupaten/Kota**. Tujuan pengerjaan adalah mengakuisisi data museum/warisan budaya melalui dataset terbuka, mengambil data historis cuaca tahun 2025 untuk 9 wilayah di Bali melalui API Open-Meteo, serta melakukan web scraping dari halaman portal resmi BPK Bali Kemendikbud yang lolos pemeriksaan `robots.txt`. Data dari sumber-sumber tersebut kemudian dibersihkan, dinormalisasi, dan digabungkan (`one_to_one`) berdasarkan kunci wilayah untuk menghasilkan tabel analisis dan visualisasi.
-
----
-
-## 4. Data Raw
-Folder `Data/Raw/` digunakan untuk menyimpan seluruh hasil akuisisi mentah tanpa perubahan:
-
-| Jenis Data | Nama File | Format | Keterangan |
-| :--- | :--- | :--- | :--- |
-| Dataset unduhan | `dataset_museum_budaya.csv` | CSV | Dataset asli museum & budaya |
-| Data API | `openmeteo_bali_2025_gabungan.json` & 9 file kab/kota | JSON | Respons mentah Open-Meteo |
-| Data scraping | `profil_budaya_bali_kemdikbud.html`, `tabel_mentah_web.csv` | HTML / CSV | Halaman statis BPK Bali Kemendikbud |
-
----
-
-## 5. Process
-Folder `Data/Process/` digunakan untuk menyimpan data hasil pembacaan, normalisasi, pembersihan, penggabungan, dan visualisasi:
-
-| Hasil Proses | Nama File | Format |
-| :--- | :--- | :--- |
-| Dataset budaya bersih | `dataset_budaya_bersih.csv` | CSV |
-| Data API cuaca ternormalisasi | `cuaca_harian_bersih.csv` | CSV |
-| Data scraping terstruktur | `hasil_scraping_wilayah_bali.csv` | CSV |
-| Hasil penggabungan (`one_to_one`) | `hasil_gabungan_budaya_bali.csv` & `.json` | CSV / JSON |
-| Visualisasi hasil gabungan | `visual_budaya_bali.png` | PNG |
-
----
-
-## 6. Dokumentasi
-Dokumentasi tata kelola dan etika data berisi catatan asal-usul data (*provenance*), *Data Ethics Checklist*, bukti pemeriksaan `robots.txt`, klasifikasi PII, estimasi *storage*, dan metadata hasil penggabungan (`provenance.csv`, `data_ethics_checklist.csv`, `klasifikasi_pii.csv`, `estimasi_storage.csv`, `robots_check.json`, `metadata_gabungan.json`).
-
----
-
-## 7. Cara Menjalankan
-1. Buka notebook `UTS_DAM_2501010372.ipynb` melalui Google Colab atau Jupyter.
-2. Isi email pribadi pada Colab Secrets dengan nama `EMAIL_PRIBADI`, atau file `.env` jika dijalankan secara lokal.
-3. Jalankan seluruh sel notebook secara berurutan.
-4. Periksa bahwa dataset mentah tersimpan di `Data/Raw/`, hasil olahan di `Data/Process/`, dan dokumentasi etika/provenance tersedia lengkap.
-
----
-
-## 8. Struktur Folder
+## Struktur Repositori
 ```text
 UTS-DAM/
-├── README.md
-├── UTS_DAM_2501010372.ipynb
 ├── Data/
-│   ├── Raw/               # Data mentah hasil unduhan, API, dan scraping
-│   └── Process/           # Data bersih, hasil merge, dan visualisasi
-├── provenance.csv         # Catatan sumber dan lisensi data
-├── data_ethics_checklist.csv
-├── klasifikasi_pii.csv
-├── estimasi_storage.csv
-├── robots_check.json
-└── metadata_gabungan.json
+│   ├── Raw/                         # Menyimpan data mentah asli dari 3 sumber
+│   │   ├── dataset_museum_budaya.csv
+│   │   ├── openmeteo_bali_2025_gabungan.json
+│   │   └── katalog_travel_budaya_web.html
+│   └── Process/                     # Menyimpan data bersih berbentuk tabel & gabungan
+│       ├── dataset_budaya_bersih.csv
+│       ├── cuaca_harian_bersih.csv
+│       ├── hasil_scraping_wilayah_bali.html
+│       └── hasil_gabungan_budaya_bali.csv
+├── Download_CSV.ipynb               # Notebook proses pembersihan data CSV/Excel
+├── API.ipynb                        # Notebook akuisisi & pembersihan data REST API
+├── Scrapping.ipynb                  # Notebook pengecekan izin scrapping (robots.txt) dan data ethics checklist
+└── README.md                        # Dokumentasi utama proyek UTS
+```
