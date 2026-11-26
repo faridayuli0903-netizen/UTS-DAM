@@ -1,10 +1,10 @@
-wilayah,rerata_suhu_c,total_hujan_mm,kunci_wilayah,jumlah_objek_budaya,provinsi,sumber_portal_resmi
-Badung,25.69,2975.1,badung,466,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
-Bangli,23.32,2832.5,bangli,465,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
-Buleleng,27.33,1709.0,buleleng,466,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
-Denpasar,26.35,2335.7,denpasar,466,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
-Gianyar,25.68,2321.3,gianyar,466,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
-Jembrana,26.57,1990.2,jembrana,465,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
-Karangasem,25.13,2810.3,karangasem,466,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
-Klungkung,25.85,2025.1,klungkung,465,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
-Tabanan,25.45,3207.0,tabanan,466,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
+wilayah_x,kunci_wilayah,jumlah_entitas_wikidata,jumlah_objek_budaya,provinsi,sumber_portal_resmi,wilayah_y
+Kabupaten Badung,badung,862,466,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html,Badung
+Kabupaten Bangli,bangli,366,465,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html,Bangli
+Kabupaten Buleleng,buleleng,1135,466,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html,Buleleng
+Kabupaten Gianyar,gianyar,668,466,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html,Gianyar
+Kabupaten Jembrana,jembrana,461,465,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html,Jembrana
+Kabupaten Karangasem,karangasem,847,466,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html,Karangasem
+Kabupaten Klungkung,klungkung,426,465,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html,Klungkung
+Kabupaten Tabanan,tabanan,812,466,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html,Tabanan
+Kota Denpasar,denpasar,777,466,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html,Denpasar
