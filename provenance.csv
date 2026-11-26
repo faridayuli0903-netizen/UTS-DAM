@@ -1,0 +1,4 @@
+sumber,url,tanggal_akses,lisensi,metode_akuisisi,nama_berkas,ukuran_byte,md5_hash
+Dataset Terbuka Budaya,https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-11-22/museums.csv,2026-11-26T15:43:12,Open Data Publik (CC BY-SA / Public Domain untuk Pendidikan),Unduh Otomatis Berkas CSV,UTS_DAM_BUDAYA_2501010372/Data/Raw/dataset_museum_budaya.csv,1813386,e196dba4c3072bc54a8c6285680919f2
+API_Wikidata_Budaya_Bali,https://www.wikidata.org/w/api.php,2026-11-26T15:43:59,CC0 1.0 Public Domain (Wikidata Action API),REST API Query,UTS_DAM_BUDAYA_2501010372/Process/api_wikidata_budaya_bali.csv,324,69a94b56569e3ab019df364b347ca5e1
+Web Scraping Katalog Literatur Travel & Budaya,https://books.toscrape.com/catalogue/category/books/travel_2/index.html,2026-11-26T15:44:16,Open Sandbox Public Web (Non-Wikipedia),Web Scraping Statis (BeautifulSoup),UTS_DAM_BUDAYA_2501010372/Data/Raw/katalog_travel_budaya_web.html,37009,1b78b904a93a44deb24e607740435a2c

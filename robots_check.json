@@ -1,0 +1,8 @@
+{
+  "target_url": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
+  "robots_txt_url": "https://books.toscrape.com/robots.txt",
+  "waktu_cek": "2026-11-26T15:44:14",
+  "user_agent": "INSTIKI-UTS-DAM-BUDAYA/1.0 (faridayuli0903@gmail.com; Yuliana Farida; NIM 2501010372)",
+  "status_http": 404,
+  "can_fetch": true
+}
