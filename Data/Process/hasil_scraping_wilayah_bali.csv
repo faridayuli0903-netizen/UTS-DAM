@@ -1,10 +1,10 @@
-kunci_wilayah,wilayah,provinsi,sumber_portal_resmi
-badung,Badung,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
-bangli,Bangli,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
-buleleng,Buleleng,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
-denpasar,Denpasar,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
-gianyar,Gianyar,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
-jembrana,Jembrana,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
-karangasem,Karangasem,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
-klungkung,Klungkung,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
-tabanan,Tabanan,Bali,https://books.toscrape.com/catalogue/category/books/travel_2/index.html
+nama_kabupaten_kota_resmi,kunci_wilayah,ibu_kota,luas_wilayah_km2
+Kabupaten Badung,Badung,Mangupura,397.395
+Kabupaten Bangli,Bangli,Bangli,526.764
+Kabupaten Buleleng,Buleleng,Singaraja,1322.124
+Kabupaten Gianyar,Gianyar,Gianyar,363.782
+Kabupaten Jembrana,Jembrana,Negara,847.515
+Kabupaten Karangasem,Karangasem,Amlapura,838.899
+Kabupaten Klungkung,Klungkung,Semarapura,312.115
+Kabupaten Tabanan,Tabanan,Singasana,848.539
+Kota Denpasar,Denpasar,-,125.694
