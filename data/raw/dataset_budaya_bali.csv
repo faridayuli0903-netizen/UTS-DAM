@@ -1,0 +1,121 @@
+id_objek,periode_data,kabupaten_kota,kecamatan,kategori_budaya,nama_objek_budaya,jumlah_koleksi_atau_aset,status_registrasi
+BDY-BLI-001,2025,Kabupaten Badung,Kuta,Situs Cagar Budaya,Pura Luhur Pertiwi Kuta,69,Tercatat Nasional
+BDY-BLI-002,2025,Kabupaten Gianyar,Ubud,Museum Seni & Sejarah,Pura Dalem Mandala Ubud,152,Tercatat Nasional
+BDY-BLI-003,2023,Kabupaten Tabanan,Kediri,Desa Adat Tradisional,Museum Seni Tenganan Kediri,83,Tercatat Kabupaten/Kota
+BDY-BLI-004,2023,Kabupaten Buleleng,Buleleng,Bale Banjar & Wantilan,Situs Goa Tanah Lot Buleleng,291,Tercatat Nasional
+BDY-BLI-005,2025,Kabupaten Karangasem,Karangasem,Puri Kerajaan,Desa Adat Goa Gajah Karangasem,228,Tercatat Nasional
+BDY-BLI-006,2023,Kabupaten Klungkung,Klungkung,Prasasti & Arca Kuno,Puri Agung Kehen Klungkung,59,Tercatat Nasional
+BDY-BLI-007,2023,Kabupaten Bangli,Bangli,Pura Kahyangan Jagat,Pura Taman Rambut Siwi Bangli,270,Tercatat Kabupaten/Kota
+BDY-BLI-008,2023,Kabupaten Jembrana,Negara,Situs Cagar Budaya,Cagar Budaya Agung Negara,299,Tercatat Nasional
+BDY-BLI-009,2025,Kota Denpasar,Denpasar Timur,Museum Seni & Sejarah,Museum Budaya Pertiwi Denpasar Timur,344,Tercatat Kabupaten/Kota
+BDY-BLI-010,2025,Kabupaten Badung,Kuta Utara,Desa Adat Tradisional,Pura Puseh Mandala Kuta Utara,226,Tercatat Nasional
+BDY-BLI-011,2024,Kabupaten Gianyar,Sukawati,Bale Banjar & Wantilan,Prasasti Tenganan Sukawati,313,Tercatat Provinsi
+BDY-BLI-012,2023,Kabupaten Tabanan,Tabanan,Puri Kerajaan,Pura Segara Tanah Lot Tabanan,93,Tercatat Kabupaten/Kota
+BDY-BLI-013,2024,Kabupaten Buleleng,Sukasada,Prasasti & Arca Kuno,Situs Kuno Goa Gajah Sukasada,186,Tercatat Provinsi
+BDY-BLI-014,2023,Kabupaten Karangasem,Abang,Pura Kahyangan Jagat,Pura Melanting Kehen Abang,122,Tercatat Provinsi
+BDY-BLI-015,2023,Kabupaten Klungkung,Banjarangkan,Situs Cagar Budaya,Pura Tirta Rambut Siwi Banjarangkan,59,Tercatat Provinsi
+BDY-BLI-016,2023,Kabupaten Bangli,Susut,Museum Seni & Sejarah,Pura Luhur Agung Susut,195,Tercatat Provinsi
+BDY-BLI-017,2025,Kabupaten Jembrana,Mendoyo,Desa Adat Tradisional,Pura Dalem Pertiwi Mendoyo,147,Tercatat Nasional
+BDY-BLI-018,2025,Kota Denpasar,Denpasar Barat,Bale Banjar & Wantilan,Museum Seni Mandala Denpasar Barat,247,Tercatat Kabupaten/Kota
+BDY-BLI-019,2023,Kabupaten Badung,Mengwi,Puri Kerajaan,Situs Goa Tenganan Mengwi,205,Tercatat Nasional
+BDY-BLI-020,2025,Kabupaten Gianyar,Tampaksiring,Prasasti & Arca Kuno,Desa Adat Tanah Lot Tampaksiring,162,Tercatat Kabupaten/Kota
+BDY-BLI-021,2025,Kabupaten Tabanan,Penebel,Pura Kahyangan Jagat,Puri Agung Goa Gajah Penebel,197,Tercatat Kabupaten/Kota
+BDY-BLI-022,2023,Kabupaten Buleleng,Banjar,Situs Cagar Budaya,Pura Taman Kehen Banjar,47,Tercatat Nasional
+BDY-BLI-023,2025,Kabupaten Karangasem,Bebandem,Museum Seni & Sejarah,Cagar Budaya Rambut Siwi Bebandem,128,Tercatat Provinsi
+BDY-BLI-024,2023,Kabupaten Klungkung,Dawan,Desa Adat Tradisional,Museum Budaya Agung Dawan,131,Tercatat Nasional
+BDY-BLI-025,2024,Kabupaten Bangli,Tembuku,Bale Banjar & Wantilan,Pura Puseh Pertiwi Tembuku,154,Tercatat Provinsi
+BDY-BLI-026,2025,Kabupaten Jembrana,Pekutatan,Puri Kerajaan,Prasasti Mandala Pekutatan,198,Tercatat Nasional
+BDY-BLI-027,2024,Kota Denpasar,Denpasar Utara,Prasasti & Arca Kuno,Pura Segara Tenganan Denpasar Utara,193,Tercatat Nasional
+BDY-BLI-028,2025,Kabupaten Badung,Abiansemal,Pura Kahyangan Jagat,Situs Kuno Tanah Lot Abiansemal,148,Tercatat Kabupaten/Kota
+BDY-BLI-029,2025,Kabupaten Gianyar,Blahbatuh,Situs Cagar Budaya,Pura Melanting Goa Gajah Blahbatuh,343,Tercatat Nasional
+BDY-BLI-030,2025,Kabupaten Tabanan,Baturiti,Museum Seni & Sejarah,Pura Tirta Kehen Baturiti,337,Tercatat Nasional
+BDY-BLI-031,2025,Kabupaten Buleleng,Seririt,Desa Adat Tradisional,Pura Luhur Rambut Siwi Seririt,137,Tercatat Nasional
+BDY-BLI-032,2024,Kabupaten Karangasem,Rendang,Bale Banjar & Wantilan,Pura Dalem Agung Rendang,206,Tercatat Provinsi
+BDY-BLI-033,2025,Kabupaten Klungkung,Nusa Penida,Puri Kerajaan,Museum Seni Pertiwi Nusa Penida,297,Tercatat Nasional
+BDY-BLI-034,2025,Kabupaten Bangli,Kintamani,Prasasti & Arca Kuno,Situs Goa Mandala Kintamani,178,Tercatat Nasional
+BDY-BLI-035,2023,Kabupaten Jembrana,Melaya,Pura Kahyangan Jagat,Desa Adat Tenganan Melaya,28,Tercatat Provinsi
+BDY-BLI-036,2024,Kota Denpasar,Denpasar Selatan,Situs Cagar Budaya,Puri Agung Tanah Lot Denpasar Selatan,149,Tercatat Nasional
+BDY-BLI-037,2023,Kabupaten Badung,Petang,Museum Seni & Sejarah,Pura Taman Goa Gajah Petang,302,Tercatat Kabupaten/Kota
+BDY-BLI-038,2024,Kabupaten Gianyar,Tegallalang,Desa Adat Tradisional,Cagar Budaya Kehen Tegallalang,120,Tercatat Kabupaten/Kota
+BDY-BLI-039,2024,Kabupaten Tabanan,Kerambitan,Bale Banjar & Wantilan,Museum Budaya Rambut Siwi Kerambitan,214,Tercatat Kabupaten/Kota
+BDY-BLI-040,2024,Kabupaten Buleleng,Tejakula,Puri Kerajaan,Pura Puseh Agung Tejakula,85,Tercatat Provinsi
+BDY-BLI-041,2023,Kabupaten Karangasem,Sidemen,Prasasti & Arca Kuno,Prasasti Pertiwi Sidemen,138,Tercatat Kabupaten/Kota
+BDY-BLI-042,2025,Kabupaten Klungkung,Klungkung,Pura Kahyangan Jagat,Pura Segara Mandala Klungkung,287,Tercatat Provinsi
+BDY-BLI-043,2025,Kabupaten Bangli,Bangli,Situs Cagar Budaya,Situs Kuno Tenganan Bangli,311,Tercatat Provinsi
+BDY-BLI-044,2025,Kabupaten Jembrana,Negara,Museum Seni & Sejarah,Pura Melanting Tanah Lot Negara,216,Tercatat Provinsi
+BDY-BLI-045,2023,Kota Denpasar,Denpasar Timur,Desa Adat Tradisional,Pura Tirta Goa Gajah Denpasar Timur,82,Tercatat Kabupaten/Kota
+BDY-BLI-046,2024,Kabupaten Badung,Kuta,Bale Banjar & Wantilan,Pura Luhur Kehen Kuta,58,Tercatat Nasional
+BDY-BLI-047,2023,Kabupaten Gianyar,Ubud,Puri Kerajaan,Pura Dalem Rambut Siwi Ubud,90,Tercatat Kabupaten/Kota
+BDY-BLI-048,2023,Kabupaten Tabanan,Kediri,Prasasti & Arca Kuno,Museum Seni Agung Kediri,228,Tercatat Kabupaten/Kota
+BDY-BLI-049,2023,Kabupaten Buleleng,Buleleng,Pura Kahyangan Jagat,Situs Goa Pertiwi Buleleng,209,Tercatat Provinsi
+BDY-BLI-050,2025,Kabupaten Karangasem,Karangasem,Situs Cagar Budaya,Desa Adat Mandala Karangasem,251,Tercatat Kabupaten/Kota
+BDY-BLI-051,2024,Kabupaten Klungkung,Banjarangkan,Museum Seni & Sejarah,Puri Agung Tenganan Banjarangkan,295,Tercatat Nasional
+BDY-BLI-052,2025,Kabupaten Bangli,Susut,Desa Adat Tradisional,Pura Taman Tanah Lot Susut,70,Tercatat Kabupaten/Kota
+BDY-BLI-053,2025,Kabupaten Jembrana,Mendoyo,Bale Banjar & Wantilan,Cagar Budaya Goa Gajah Mendoyo,148,Tercatat Kabupaten/Kota
+BDY-BLI-054,2024,Kota Denpasar,Denpasar Barat,Puri Kerajaan,Museum Budaya Kehen Denpasar Barat,69,Tercatat Provinsi
+BDY-BLI-055,2024,Kabupaten Badung,Kuta Utara,Prasasti & Arca Kuno,Pura Puseh Rambut Siwi Kuta Utara,92,Tercatat Provinsi
+BDY-BLI-056,2023,Kabupaten Gianyar,Sukawati,Pura Kahyangan Jagat,Prasasti Agung Sukawati,146,Tercatat Kabupaten/Kota
+BDY-BLI-057,2023,Kabupaten Tabanan,Tabanan,Situs Cagar Budaya,Pura Segara Pertiwi Tabanan,271,Tercatat Nasional
+BDY-BLI-058,2025,Kabupaten Buleleng,Sukasada,Museum Seni & Sejarah,Situs Kuno Mandala Sukasada,164,Tercatat Kabupaten/Kota
+BDY-BLI-059,2025,Kabupaten Karangasem,Abang,Desa Adat Tradisional,Pura Melanting Tenganan Abang,323,Tercatat Nasional
+BDY-BLI-060,2023,Kabupaten Klungkung,Dawan,Bale Banjar & Wantilan,Pura Tirta Tanah Lot Dawan,203,Tercatat Nasional
+BDY-BLI-061,2025,Kabupaten Bangli,Tembuku,Puri Kerajaan,Pura Luhur Goa Gajah Tembuku,283,Tercatat Nasional
+BDY-BLI-062,2025,Kabupaten Jembrana,Pekutatan,Prasasti & Arca Kuno,Pura Dalem Kehen Pekutatan,177,Tercatat Provinsi
+BDY-BLI-063,2023,Kota Denpasar,Denpasar Utara,Pura Kahyangan Jagat,Museum Seni Rambut Siwi Denpasar Utara,69,Tercatat Provinsi
+BDY-BLI-064,2024,Kabupaten Badung,Mengwi,Situs Cagar Budaya,Situs Goa Agung Mengwi,134,Tercatat Nasional
+BDY-BLI-065,2023,Kabupaten Gianyar,Tampaksiring,Museum Seni & Sejarah,Desa Adat Pertiwi Tampaksiring,302,Tercatat Nasional
+BDY-BLI-066,2023,Kabupaten Tabanan,Penebel,Desa Adat Tradisional,Puri Agung Mandala Penebel,260,Tercatat Nasional
+BDY-BLI-067,2025,Kabupaten Buleleng,Banjar,Bale Banjar & Wantilan,Pura Taman Tenganan Banjar,76,Tercatat Nasional
+BDY-BLI-068,2025,Kabupaten Karangasem,Bebandem,Puri Kerajaan,Cagar Budaya Tanah Lot Bebandem,255,Tercatat Kabupaten/Kota
+BDY-BLI-069,2023,Kabupaten Klungkung,Nusa Penida,Prasasti & Arca Kuno,Museum Budaya Goa Gajah Nusa Penida,147,Tercatat Kabupaten/Kota
+BDY-BLI-070,2025,Kabupaten Bangli,Kintamani,Pura Kahyangan Jagat,Pura Puseh Kehen Kintamani,228,Tercatat Nasional
+BDY-BLI-071,2025,Kabupaten Jembrana,Melaya,Situs Cagar Budaya,Prasasti Rambut Siwi Melaya,114,Tercatat Kabupaten/Kota
+BDY-BLI-072,2024,Kota Denpasar,Denpasar Selatan,Museum Seni & Sejarah,Pura Segara Agung Denpasar Selatan,216,Tercatat Kabupaten/Kota
+BDY-BLI-073,2025,Kabupaten Badung,Abiansemal,Desa Adat Tradisional,Situs Kuno Pertiwi Abiansemal,203,Tercatat Provinsi
+BDY-BLI-074,2025,Kabupaten Gianyar,Blahbatuh,Bale Banjar & Wantilan,Pura Melanting Mandala Blahbatuh,243,Tercatat Nasional
+BDY-BLI-075,2023,Kabupaten Tabanan,Baturiti,Puri Kerajaan,Pura Tirta Tenganan Baturiti,127,Tercatat Nasional
+BDY-BLI-076,2024,Kabupaten Buleleng,Seririt,Prasasti & Arca Kuno,Pura Luhur Tanah Lot Seririt,22,Tercatat Kabupaten/Kota
+BDY-BLI-077,2025,Kabupaten Karangasem,Rendang,Pura Kahyangan Jagat,Pura Dalem Goa Gajah Rendang,129,Tercatat Kabupaten/Kota
+BDY-BLI-078,2023,Kabupaten Klungkung,Klungkung,Situs Cagar Budaya,Museum Seni Kehen Klungkung,15,Tercatat Nasional
+BDY-BLI-079,2025,Kabupaten Bangli,Bangli,Museum Seni & Sejarah,Situs Goa Rambut Siwi Bangli,335,Tercatat Nasional
+BDY-BLI-080,2023,Kabupaten Jembrana,Negara,Desa Adat Tradisional,Desa Adat Agung Negara,46,Tercatat Nasional
+BDY-BLI-081,2024,Kota Denpasar,Denpasar Timur,Bale Banjar & Wantilan,Puri Agung Pertiwi Denpasar Timur,48,Tercatat Kabupaten/Kota
+BDY-BLI-082,2023,Kabupaten Badung,Petang,Puri Kerajaan,Pura Taman Mandala Petang,154,Tercatat Kabupaten/Kota
+BDY-BLI-083,2024,Kabupaten Gianyar,Tegallalang,Prasasti & Arca Kuno,Cagar Budaya Tenganan Tegallalang,121,Tercatat Kabupaten/Kota
+BDY-BLI-084,2023,Kabupaten Tabanan,Kerambitan,Pura Kahyangan Jagat,Museum Budaya Tanah Lot Kerambitan,304,Tercatat Kabupaten/Kota
+BDY-BLI-085,2024,Kabupaten Buleleng,Tejakula,Situs Cagar Budaya,Pura Puseh Goa Gajah Tejakula,136,Tercatat Provinsi
+BDY-BLI-086,2024,Kabupaten Karangasem,Sidemen,Museum Seni & Sejarah,Prasasti Kehen Sidemen,109,Tercatat Nasional
+BDY-BLI-087,2023,Kabupaten Klungkung,Banjarangkan,Desa Adat Tradisional,Pura Segara Rambut Siwi Banjarangkan,349,Tercatat Provinsi
+BDY-BLI-088,2024,Kabupaten Bangli,Susut,Bale Banjar & Wantilan,Situs Kuno Agung Susut,228,Tercatat Provinsi
+BDY-BLI-089,2024,Kabupaten Jembrana,Mendoyo,Puri Kerajaan,Pura Melanting Pertiwi Mendoyo,39,Tercatat Kabupaten/Kota
+BDY-BLI-090,2025,Kota Denpasar,Denpasar Barat,Prasasti & Arca Kuno,Pura Tirta Mandala Denpasar Barat,342,Tercatat Nasional
+BDY-BLI-091,2023,Kabupaten Badung,Kuta,Pura Kahyangan Jagat,Pura Luhur Tenganan Kuta,218,Tercatat Kabupaten/Kota
+BDY-BLI-092,2024,Kabupaten Gianyar,Ubud,Situs Cagar Budaya,Pura Dalem Tanah Lot Ubud,67,Tercatat Nasional
+BDY-BLI-093,2023,Kabupaten Tabanan,Kediri,Museum Seni & Sejarah,Museum Seni Goa Gajah Kediri,109,Tercatat Kabupaten/Kota
+BDY-BLI-094,2024,Kabupaten Buleleng,Buleleng,Desa Adat Tradisional,Situs Goa Kehen Buleleng,83,Tercatat Provinsi
+BDY-BLI-095,2023,Kabupaten Karangasem,Karangasem,Bale Banjar & Wantilan,Desa Adat Rambut Siwi Karangasem,154,Tercatat Provinsi
+BDY-BLI-096,2023,Kabupaten Klungkung,Dawan,Puri Kerajaan,Puri Agung Agung Dawan,50,Tercatat Provinsi
+BDY-BLI-097,2025,Kabupaten Bangli,Tembuku,Prasasti & Arca Kuno,Pura Taman Pertiwi Tembuku,62,Tercatat Nasional
+BDY-BLI-098,2025,Kabupaten Jembrana,Pekutatan,Pura Kahyangan Jagat,Cagar Budaya Mandala Pekutatan,288,Tercatat Nasional
+BDY-BLI-099,2023,Kota Denpasar,Denpasar Utara,Situs Cagar Budaya,Museum Budaya Tenganan Denpasar Utara,133,Tercatat Nasional
+BDY-BLI-100,2024,Kabupaten Badung,Kuta Utara,Museum Seni & Sejarah,Pura Puseh Tanah Lot Kuta Utara,260,Tercatat Provinsi
+BDY-BLI-101,2023,Kabupaten Gianyar,Sukawati,Desa Adat Tradisional,Prasasti Goa Gajah Sukawati,217,Tercatat Nasional
+BDY-BLI-102,2023,Kabupaten Tabanan,Tabanan,Bale Banjar & Wantilan,Pura Segara Kehen Tabanan,206,Tercatat Nasional
+BDY-BLI-103,2024,Kabupaten Buleleng,Sukasada,Puri Kerajaan,Situs Kuno Rambut Siwi Sukasada,147,Tercatat Provinsi
+BDY-BLI-104,2024,Kabupaten Karangasem,Abang,Prasasti & Arca Kuno,Pura Melanting Agung Abang,228,Tercatat Kabupaten/Kota
+BDY-BLI-105,2025,Kabupaten Klungkung,Nusa Penida,Pura Kahyangan Jagat,Pura Tirta Pertiwi Nusa Penida,296,Tercatat Kabupaten/Kota
+BDY-BLI-106,2025,Kabupaten Bangli,Kintamani,Situs Cagar Budaya,Pura Luhur Mandala Kintamani,261,Tercatat Nasional
+BDY-BLI-107,2023,Kabupaten Jembrana,Melaya,Museum Seni & Sejarah,Pura Dalem Tenganan Melaya,163,Tercatat Nasional
+BDY-BLI-108,2023,Kota Denpasar,Denpasar Selatan,Desa Adat Tradisional,Museum Seni Tanah Lot Denpasar Selatan,308,Tercatat Kabupaten/Kota
+BDY-BLI-109,2025,Kabupaten Badung,Mengwi,Bale Banjar & Wantilan,Situs Goa Goa Gajah Mengwi,43,Tercatat Kabupaten/Kota
+BDY-BLI-110,2024,Kabupaten Gianyar,Tampaksiring,Puri Kerajaan,Desa Adat Kehen Tampaksiring,41,Tercatat Nasional
+BDY-BLI-111,2025,Kabupaten Tabanan,Penebel,Prasasti & Arca Kuno,Puri Agung Rambut Siwi Penebel,256,Tercatat Kabupaten/Kota
+BDY-BLI-112,2025,Kabupaten Buleleng,Banjar,Pura Kahyangan Jagat,Pura Taman Agung Banjar,92,Tercatat Nasional
+BDY-BLI-113,2025,Kabupaten Karangasem,Bebandem,Situs Cagar Budaya,Cagar Budaya Pertiwi Bebandem,53,Tercatat Nasional
+BDY-BLI-114,2023,Kabupaten Klungkung,Klungkung,Museum Seni & Sejarah,Museum Budaya Mandala Klungkung,316,Tercatat Nasional
+BDY-BLI-115,2025,Kabupaten Bangli,Bangli,Desa Adat Tradisional,Pura Puseh Tenganan Bangli,132,Tercatat Provinsi
+BDY-BLI-116,2023,Kabupaten Jembrana,Negara,Bale Banjar & Wantilan,Prasasti Tanah Lot Negara,303,Tercatat Nasional
+BDY-BLI-117,2025,Kota Denpasar,Denpasar Timur,Puri Kerajaan,Pura Segara Goa Gajah Denpasar Timur,316,Tercatat Nasional
+BDY-BLI-118,2025,Kabupaten Badung,Abiansemal,Prasasti & Arca Kuno,Situs Kuno Kehen Abiansemal,53,Tercatat Provinsi
+BDY-BLI-119,2025,Kabupaten Gianyar,Blahbatuh,Pura Kahyangan Jagat,Pura Melanting Rambut Siwi Blahbatuh,310,Tercatat Kabupaten/Kota
+BDY-BLI-120,2025,Kabupaten Tabanan,Baturiti,Situs Cagar Budaya,Pura Tirta Agung Baturiti,173,Tercatat Provinsi

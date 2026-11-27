@@ -1,0 +1,16 @@
+{
+  "judul": "Data Budaya dan Museum di Bali (Scraping + MediaWiki API Bahasa Indonesia)",
+  "dibuat_oleh": "Yuliana Farida (2501010372)",
+  "dibuat_pada": "2026-11-27 14:04:21 WITA",
+  "kunci_merge": "judul_artikel",
+  "jenis_join": "left (scraping sebagai tabel utama)",
+  "validate": "one_to_one",
+  "jumlah_baris": {
+    "scraping": 35,
+    "api": 91,
+    "hasil": 35
+  },
+  "duplikat_hasil": 0,
+  "file_hasil": "data/processed/gabungan_budaya_bali_api_scraping.csv",
+  "md5_hasil": "4944730f4d12e63318784d24cb40f21a"
+}
